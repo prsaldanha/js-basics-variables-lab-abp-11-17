@@ -1,3 +1,3 @@
 const companyName = 'Scuber';
-let companyName = 'We';
+companyName = 'specialCompany';
 var companyCeo ='Susan Smith';
