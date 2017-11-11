@@ -1,2 +1,2 @@
 let companyName = 'Scuber';
-companyName = 'We';
+let companyName = 'We';
